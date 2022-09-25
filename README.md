@@ -16,7 +16,7 @@
   <img align="center" alt="Lorena-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lorena-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
-  <img align="right" alt="Lorena-pic" height="200" style="border-radius:50px;" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp">
+  <img align="right" alt="Lorena-pic" height="190" style="border-radius:50px;" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp">
 </div>
   
   ##
