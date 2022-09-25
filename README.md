@@ -1,4 +1,4 @@
-## Oiii eu sou a Lorena Grazielle, desenvolvedora Full Stack em construção!
+## Oiii eu sou a Lorena Grazielle, Full Stack em desenvolvimento!
 
 <div align="center">
   <a href="https://github.com/lorenagrazy">
@@ -20,3 +20,8 @@
   <img align="right" alt="Lorena-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp">
 </div>
   
+<div> 
+   <a href="https://instagram.com/gralore061890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lorena-silva-020721121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
