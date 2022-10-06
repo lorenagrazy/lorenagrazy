@@ -1,4 +1,4 @@
-## Oiii eu sou a Lorena Grazielle, Full Stack em desenvolvimento! 😃
+## Oiii eu sou a Lorena Grazielle! 😃
 
 <div align="center">
   <a href="https://github.com/lorenagrazy">
