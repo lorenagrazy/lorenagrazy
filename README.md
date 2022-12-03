@@ -23,8 +23,6 @@
     
 <div align="left"> 
  
-
-   <a href="https://instagram.com/gralore061890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/lorena-silva-020721121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lorenagrazy/lorenagrazy/blob/output/github-contribution-grid-snake.svg)
