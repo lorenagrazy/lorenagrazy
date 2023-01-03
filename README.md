@@ -13,7 +13,7 @@
   <img align="center" alt="Lorena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   
-  <img align="right" alt="Lorena-pic" height="190" style="border-radius:50px;" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp">
+  <img align="right" alt="Lorena-pic" height="190" style="border-radius:50px;" src="https://www.behance.net/gallery/32138533/Star-Wars-GIFS-1/modules/214538404">
 </div>
   
   ##
