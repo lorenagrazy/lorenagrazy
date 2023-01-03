@@ -13,7 +13,7 @@
   <img align="center" alt="Lorena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   
-  <img align="right" alt="Lorena-pic" height="190" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4dc45932138533.56befc47f11dc.gif">
+  <img align="right" alt="Lorena-pic" height="15" style="border-radius:10px;" src="https://i.pinimg.com/originals/fa/7f/f9/fa7ff9198147f9f76c0c6b87a9e99847.gif">
 </div>
   
   ##
