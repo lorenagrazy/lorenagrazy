@@ -12,6 +12,10 @@
   <img align="center" alt="Lorena-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Lorena-FireBase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
     
+  <img align="right" alt="Lorena-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/200w.webp?cid=ecf05e471gy5qvegyxu4mfnfikzvb9jrokltc0v3t9v1c449&rid=200w.webp&ct=s">
+</div>
+    
+     
   
   
   
