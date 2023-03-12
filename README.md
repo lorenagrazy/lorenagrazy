@@ -17,6 +17,8 @@
     <img align="center" alt="Lorena-Bootstrap" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
     <img align="center" alt="Lorena-NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
     <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
+    <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452129/vs-code.svg">
+   
    
     
     
