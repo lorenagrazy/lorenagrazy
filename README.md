@@ -18,6 +18,8 @@
     <img align="center" alt="Lorena-NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
     <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
     <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452129/vs-code.svg">
+    <img align="center" alt="Lorena-Git" height="30" width="40" src="https://apprecs.org/ios/images/app-icons/256/98/486208408.jpg">
+    
    
    
     
