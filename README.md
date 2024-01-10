@@ -18,7 +18,7 @@
     <img align="center" alt="Lorena-NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
     <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
     <img align="center" alt="Lorena-Git" height="30" width="40" src="https://www.svgrepo.com/show/452129/vs-code.svg">
-    <img align="center" alt="Lorena-Git" height="30" width="40" src="https://apprecs.org/ios/images/app-icons/256/98/486208408.jpg">
+    
     
    
    
@@ -38,4 +38,4 @@
  
   <a href="https://www.linkedin.com/in/lorena-silva-020721121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/lorenagrazy/lorenagrazy/blob/output/github-contribution-grid-snake.svg)
+
